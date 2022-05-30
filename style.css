@@ -10,7 +10,7 @@
   display: block;
   text-align: right;
 }
-.header .header-img {
+.header .header__img {
   width: 100%;
 }
 .header .more-inf {
@@ -24,17 +24,17 @@
  }
 
 }
-.centered-main-page-el {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
 }
-.task {
+.menu-item__aim  {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
 }
-.task-wrapper {
+.task-item {
   display: flex;
 }
 .menu-wrapper {
