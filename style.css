@@ -41,10 +41,12 @@
   margin: 0;
   padding: 0px;
 }
-.menu-item, .title {
+.menu-item, 
+.title {
   list-style: none;
 }
-.inner,.btn{
+.inner,
+.btn{
   outline: none;
 }
 .btn {
